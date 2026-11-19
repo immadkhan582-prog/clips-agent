@@ -33,34 +33,7 @@
     "f0b0fbac-c754-45e5-96f6-aef8796dac91": "2026-11-19"
   },
   "candidates": {},
-  "pending": {
-    "7ed242": {
-      "token": "RALxNRx05c5LjqeV",
-      "campaign": "cartier2real",
-      "file": "cartier2real_9d9d2c9f_1.mp4",
-      "run_id": "44638025352",
-      "title": "Cartier explains his type and the last part had chat dead #Cartier2Real #Shorts",
-      "description": "Cartier explains his type and the last part had chat dead\n\n@Cartier2Real live on Kick: https://kick.com/cartier2real\n\n#Cartier2Real #Kick #streamer #shorts #irlstream #streamclips #kickstreamer",
-      "tags": [
-        "Cartier2Real",
-        "Kick",
-        "streamer",
-        "IRL",
-        "funny"
-      ],
-      "language": "en",
-      "hook": "He only wants one type...",
-      "style": {
-        "hook_text": "sentence",
-        "subtitle_case": "upper",
-        "subtitle_size": "large",
-        "words_per_caption": 3,
-        "framing": "blur_fill"
-      },
-      "length_s": 22,
-      "created": "2026-11-19"
-    }
-  },
+  "pending": {},
   "last_used": {
     "cartier2real": "2026-11-19"
   },
@@ -82,6 +55,21 @@
         "Clip: Lucia Caminos Video Clip",
         "Launch Trailer"
       ]
+    },
+    {
+      "campaign": "cartier2real",
+      "video_id": "jS-FOYzT0OI",
+      "date": "2026-11-19",
+      "hook": "He only wants one type...",
+      "title": "Cartier explains his type and the last part had chat dead #Cartier2Real #Shorts",
+      "style": {
+        "hook_text": "sentence",
+        "subtitle_case": "upper",
+        "subtitle_size": "large",
+        "words_per_caption": 3,
+        "framing": "blur_fill"
+      },
+      "length_s": 22
     }
   ]
 }
