@@ -1,0 +1,50 @@
+{
+  "updated": "2026-11-19",
+  "summary": "The two top performers (354k and 255k views) both use a single on-screen text block that stays visible across all three shots — the full joke or meme is readable from frame one and never changes. The hook is a relatable 'us vs them' or 'you know you do this' community meme anchored to November 19th (the release date), written in casual internet vernacular with 1-2 emojis at the end. Sentence case white text centered on the frame does all the work; the visuals are purely atmospheric backdrop. The 15k rank-3 clip used the same structure but a softer, less punchy premise (sneaking out of bed) that lacked the sharp contrast or absurdity of the top two — proving the joke quality matters more than the visual.",
+  "moments_to_pick": [
+    "PC gamers being left out or punished while console players thrive on Nov 19 — sharp contrast memes",
+    "30fps vs 60fps debate absurdity — fans who claim they can't tell the difference getting clowned on",
+    "Jason & Lucia couple dynamic memes — Lucia carrying Jason, or Jason doing something oblivious",
+    "Vice City neon/nightlife beauty shots used as the punchline visual — when the joke lands on a gorgeous environment shot",
+    "Real-world GTA 6 marketing moments (cars, billboards, pop-ups) reacted to with hyperbolic community humor",
+    "The 'waiting 12 years' generational grief — aging from child to adult waiting for GTA 6 angle"
+  ],
+  "hook_examples": [
+    "Us on November 19th watching PS5 owners load GTA 6 while we're still on PC 😭🖥️",
+    "Jason trying to keep up with Lucia in every single mission fr 😮‍💨🔫",
+    "Rockstar when they see PC players crying about no port date 💀📉",
+    "The PS5 that's been sitting in the box since Christmas waiting for Nov 19th 🎮😤",
+    "Everyone who said 30fps is 'totally fine' booting up GTA 6 for the first time 🫠🕹"
+  ],
+  "title_formula": "[Community meme premise in 6-10 words] 😭 #GTA6 — lead with the joke, include the emotional emoji immediately after, end with the hashtag. Example: 'PC players on November 19th be like 😭 #GTA6'",
+  "caption_formula": "One sentence restating the meme in slightly different wording from the on-screen text (never copy it verbatim), followed by a line break, then '🎵 Tokyo Girl — Weezer' for song credit, then 2-3 hashtags on a new line. Keep it under 25 words before the credit line.",
+  "hashtags": [
+    "#GTA6",
+    "#GTA6Edit",
+    "#GrandTheftAuto6",
+    "#GTA6Hype",
+    "#GTA6Meme",
+    "#Lucia"
+  ],
+  "target_length": [
+    10,
+    13
+  ],
+  "style": {
+    "hook_text": "none",
+    "subtitle_case": "sentence",
+    "subtitle_size": "large",
+    "words_per_caption": 8,
+    "framing": "blur_fill"
+  },
+  "avoid": [
+    "Changing the on-screen text between shots — the top clips hold one full joke static across all three beats, never fragment it",
+    "ALL CAPS text — both viral clips use sentence case; caps reads aggressive not funny here",
+    "Punchlines that require game knowledge deeper than casual awareness — the top jokes (30fps, PC vs PS5, Nov 19) are universally legible",
+    "Soft or wholesome premises without a contrast or absurdity spike — rank 3's 'sneaking out of bed' premise underperformed because it had no sharp 'gotcha' moment",
+    "More than 2 emojis in the on-screen text — top clips use exactly 1-2 at the very end of the text block",
+    "Voiceover, dialogue, or any audio other than Tokyo Girl"
+  ],
+  "experiment": "Try splitting the single static text block into a 3-beat escalation across the three shots: Beat 1 sets the scenario (4s), Beat 2 adds the twist (4s), Beat 3 delivers the punchline visual with just an emoji or 2-word payoff (4s) — this tests whether a slow build outperforms the proven static-joke fo",
+  "our_results_note": "Not enough data yet — no prior posts on this account to analyze."
+}
