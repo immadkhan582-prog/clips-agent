@@ -1,4 +1,87 @@
 {
-  "processed_vods": [],
-  "tokyo_girl_history": []
+  "processed_vods": [
+    "9d9d2c9f-8af1-4fb0-b382-3f6caa77abb4"
+  ],
+  "tokyo_girl_history": [
+    "Rockstar hid a detail in Trailer 1 nobody clocked / Lucia's ankle monitor is gone by the final shot... / She finished her parole. The story starts after"
+  ],
+  "scout_seen": {
+    "65724060-69de-4dc7-a523-4843b7358871": "2026-11-19",
+    "b8cf722b-8dd2-444b-b3cc-b1a7d23104ba": "2026-11-19",
+    "ab601e43-9404-4375-8e1e-2b49db1aef26": "2026-11-19",
+    "b5ff48d7-ec63-443a-b767-3a430a6f71f4": "2026-11-19",
+    "188c3e39-7850-4896-94df-e7a5be0cfec3": "2026-11-19",
+    "200ea21b-be80-4db8-b552-8e32b148604e": "2026-11-19",
+    "c0c37381-e244-4643-98bd-edbff4bc1465": "2026-11-19",
+    "e4a9465f-d415-4e30-bf53-e46014958bc6": "2026-11-19",
+    "86842687-ba2b-4638-a024-995dcf3d25a3": "2026-11-19",
+    "7e5c4c7a-1d93-49bb-8214-ca3a4ba60c62": "2026-11-19",
+    "7b094e71-4021-4c56-95ad-e1c0c3cd7f1a": "2026-11-19",
+    "2eaa14fb-6927-4136-897e-b096e0d907d6": "2026-11-19",
+    "c49840ae-ca22-4745-8a42-b675847e0355": "2026-11-19",
+    "c7a8e7c2-6989-4361-914f-f9571578a9b9": "2026-11-19",
+    "5f6b6ac5-9878-4ad6-b90f-c2f2a3392e91": "2026-11-19",
+    "60e19a6d-066c-4090-8728-02eb6bd789ef": "2026-11-19",
+    "783abdca-1e2f-489e-a8b4-1c802a571872": "2026-11-19",
+    "3d9ef19f-1256-47ca-b630-e33e2c923969": "2026-11-19",
+    "e815a623-badd-4516-906c-b6cfce227ff9": "2026-11-19",
+    "2ade1fa0-ef91-40c6-af02-6ec52d2f5685": "2026-11-19",
+    "6fe4c1aa-c8ca-4836-836b-01ab2540b337": "2026-11-19",
+    "19859ab5-057c-4cff-847c-93155c896827": "2026-11-19",
+    "c8248144-389f-411c-9940-5abbb0a5f2ce": "2026-11-19",
+    "14d3e6c7-be7a-4650-b9fd-e35cb38a0ed2": "2026-11-19",
+    "f0b0fbac-c754-45e5-96f6-aef8796dac91": "2026-11-19"
+  },
+  "candidates": {},
+  "pending": {
+    "7ed242": {
+      "token": "RALxNRx05c5LjqeV",
+      "campaign": "cartier2real",
+      "file": "cartier2real_9d9d2c9f_1.mp4",
+      "run_id": "44638025352",
+      "title": "Cartier explains his type and the last part had chat dead #Cartier2Real #Shorts",
+      "description": "Cartier explains his type and the last part had chat dead\n\n@Cartier2Real live on Kick: https://kick.com/cartier2real\n\n#Cartier2Real #Kick #streamer #shorts #irlstream #streamclips #kickstreamer",
+      "tags": [
+        "Cartier2Real",
+        "Kick",
+        "streamer",
+        "IRL",
+        "funny"
+      ],
+      "language": "en",
+      "hook": "He only wants one type...",
+      "style": {
+        "hook_text": "sentence",
+        "subtitle_case": "upper",
+        "subtitle_size": "large",
+        "words_per_caption": 3,
+        "framing": "blur_fill"
+      },
+      "length_s": 22,
+      "created": "2026-11-19"
+    }
+  },
+  "last_used": {
+    "cartier2real": "2026-11-19"
+  },
+  "posted": [
+    {
+      "campaign": "tokyo_girl",
+      "date": "2026-11-19",
+      "hook": "Rockstar hid a detail in Trailer 1 nobody clocked",
+      "title": "The ankle monitor disappearing in Trailer 1 is not an accident and the timeline theory is sending people\n#GTA6 #GTA6Theo",
+      "style": {
+        "hook_text": "none",
+        "subtitle_case": "sentence",
+        "subtitle_size": "large",
+        "words_per_caption": 8,
+        "framing": "blur_fill"
+      },
+      "visuals": [
+        "Trailer 1",
+        "Clip: Lucia Caminos Video Clip",
+        "Launch Trailer"
+      ]
+    }
+  ]
 }

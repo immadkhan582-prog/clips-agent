@@ -1,0 +1,51 @@
+{
+  "updated": "2026-11-19",
+  "summary": "The top clips all lead with a single wild or quotable moment and never waste a frame on setup. The 200K cameraman clip (2,960 views) dominates because the hook text names a specific, surprising number and the subtitle echoes the spoken punchline in real time. Clips in the 1,000–1,300 view range share a physical or social-awkwardness angle (handstand, fart, flirting) that is universally relatable without needing context. Titles that pair a concrete detail with an emoji and a payoff phrase ('the excuse is crazy') outperform vague titles. Clips that stay under 25 seconds outperform longer ones; the only 43-second entry earned 2 views. Everything landing above 1,000 views uses blur-fill framing with the stream frame centered so faces read clearly on mobile.",
+  "moments_to_pick": [
+    "Cartier drops a specific, surprising number or stat out loud (salary, price, count) — the more specific the better",
+    "A stranger physically interacts with Cartier or crew in an unexpected way (challenge, skill demo, confrontation)",
+    "An unscripted social moment goes sideways — flirting, rejection, an awkward reveal",
+    "Chat or someone nearby says or does something Cartier visibly reacts to with shock or laughter",
+    "A one-liner or made-up word Cartier coins that sounds quotable out of context",
+    "An embarrassing or gross physical moment someone in the stream tries to explain away"
+  ],
+  "hook_examples": [
+    "He said WHAT about the job? 💀",
+    "Bro tried to teach himself this in 60 seconds",
+    "She didn't know the camera was still on 😭",
+    "He got caught lacking on live fr",
+    "The excuse after this is WILD 😂",
+    "Chat went crazy when he said this 💀"
+  ],
+  "title_formula": "Lead with who did what in plain English, include one specific surprising detail (a number, a word, a reaction), end with a 1–4 word payoff phrase or question, add one relevant emoji. Format: [Specific thing that happened] and [the wild detail/consequence] [emoji]. Keep under 70 characters. Example: ",
+  "caption_formula": "Line 1: One punchy sentence that rewords the hook — do not repeat the title word for word. Line 2: A second sentence that teases the payoff without spoiling it, written as Cartier's voice or perspective. Line 3: 'Catch Cartier live on Kick: kick.com/cartier2real'. Keep total under 3 lines visible be",
+  "hashtags": [
+    "#cartier2real",
+    "#irlstream",
+    "#streamclips",
+    "#kick",
+    "#kickstreamer",
+    "#shorts"
+  ],
+  "target_length": [
+    15,
+    25
+  ],
+  "style": {
+    "hook_text": "sentence",
+    "subtitle_case": "upper",
+    "subtitle_size": "large",
+    "words_per_caption": 3,
+    "framing": "blur_fill"
+  },
+  "avoid": [
+    "Any slow intro or establishing shot before the punchline moment — cut straight to the moment",
+    "Clips longer than 25 seconds unless the moment physically cannot be understood shorter",
+    "Vague titles with no concrete detail ('Cartier reacts to something crazy') — always name the thing",
+    "Currency symbols anywhere in titles, captions or on-screen text (campaign rule)",
+    "On-screen hook text that is ALL CAPS shouting — sentence case reads better for the hook banner based on the top clip thumbnail",
+    "Reusing the exact same emoji in both the title and the hook text — vary them"
+  ],
+  "experiment": "On one clip this cycle, put a bold numerical stat or dollar amount as the very first on-screen text (e.g. '200K A YEAR' in the top bar before any subtitle appears) to replicate the exact visual pattern of the highest-performing clip and test whether that element alone lifts watch time past the 2-sec",
+  "our_results_note": "No posts yet from this channel — all benchmarks are drawn from the campaign's existing clips. Prioritise the 200K cameraman clip's formula (specific number + on-screen echo of the spoken line) as the baseline to beat."
+}
