@@ -1,9 +1,11 @@
 {
   "processed_vods": [
-    "9d9d2c9f-8af1-4fb0-b382-3f6caa77abb4"
+    "9d9d2c9f-8af1-4fb0-b382-3f6caa77abb4",
+    "12aa4671-4f1e-4438-b2c6-2822e4ca97b1"
   ],
   "tokyo_girl_history": [
-    "Rockstar hid a detail in Trailer 1 nobody clocked / Lucia's ankle monitor is gone by the final shot... / She finished her parole. The story starts after"
+    "Rockstar hid a detail in Trailer 1 nobody clocked / Lucia's ankle monitor is gone by the final shot... / She finished her parole. The story starts after",
+    "Started waiting for GTA 6 in middle school / Started waiting for GTA 6 in middle school / Started waiting for GTA 6 in middle school"
   ],
   "scout_seen": {
     "65724060-69de-4dc7-a523-4843b7358871": "2026-11-19",
@@ -30,12 +32,42 @@
     "19859ab5-057c-4cff-847c-93155c896827": "2026-11-19",
     "c8248144-389f-411c-9940-5abbb0a5f2ce": "2026-11-19",
     "14d3e6c7-be7a-4650-b9fd-e35cb38a0ed2": "2026-11-19",
-    "f0b0fbac-c754-45e5-96f6-aef8796dac91": "2026-11-19"
+    "f0b0fbac-c754-45e5-96f6-aef8796dac91": "2026-11-19",
+    "acfaab94-d1ca-4ed0-9834-7d69b5a4cb4b": "2026-11-20",
+    "f7ac5280-4d8b-4f96-9c49-351a0c1f6477": "2026-11-20",
+    "e9a910b6-2d87-41af-9438-6b568f3436c3": "2026-11-20"
   },
   "candidates": {},
-  "pending": {},
+  "pending": {
+    "694229": {
+      "token": "o14k8G2DQk78uY6X",
+      "campaign": "cartier2real",
+      "file": "cartier2real_12aa4671_1.mp4",
+      "run_id": "44726473100",
+      "title": "Bro said he wanted her then found out she's family #Cartier2Real #Shorts",
+      "description": "Bro said he wanted her then found out she's family\n\n@Cartier2Real live on Kick: https://kick.com/cartier2real\n\n#Cartier2Real #Kick #streamer #shorts #irlstream #streamclips #kickstreamer",
+      "tags": [
+        "Cartier2Real",
+        "Kick",
+        "streamer",
+        "IRL",
+        "funny"
+      ],
+      "language": "en",
+      "hook": "She might be his cousin tho...",
+      "style": {
+        "hook_text": "sentence",
+        "subtitle_case": "upper",
+        "subtitle_size": "large",
+        "words_per_caption": 3,
+        "framing": "blur_fill"
+      },
+      "length_s": 25,
+      "created": "2026-11-20"
+    }
+  },
   "last_used": {
-    "cartier2real": "2026-11-19"
+    "cartier2real": "2026-11-20"
   },
   "posted": [
     {
@@ -70,6 +102,24 @@
         "framing": "blur_fill"
       },
       "length_s": 22
+    },
+    {
+      "campaign": "tokyo_girl",
+      "date": "2026-11-20",
+      "hook": "Started waiting for GTA 6 in middle school",
+      "title": "Grew up waiting for this game and it finally hits November 19th \n#GTA6 #GTA6Hype #November19 #GTA6Edit #GrandTheftAuto6 ",
+      "style": {
+        "hook_text": "none",
+        "subtitle_case": "sentence",
+        "subtitle_size": "large",
+        "words_per_caption": 8,
+        "framing": "blur_fill"
+      },
+      "visuals": [
+        "Trailer 1",
+        "Trailer 2",
+        "Launch Trailer"
+      ]
     }
   ]
 }
