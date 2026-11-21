@@ -1,11 +1,13 @@
 {
   "processed_vods": [
     "9d9d2c9f-8af1-4fb0-b382-3f6caa77abb4",
-    "12aa4671-4f1e-4438-b2c6-2822e4ca97b1"
+    "12aa4671-4f1e-4438-b2c6-2822e4ca97b1",
+    "a4c85e90-4e90-4ec7-a1e9-5187e670933b"
   ],
   "tokyo_girl_history": [
     "Rockstar hid a detail in Trailer 1 nobody clocked / Lucia's ankle monitor is gone by the final shot... / She finished her parole. The story starts after",
-    "Started waiting for GTA 6 in middle school / Started waiting for GTA 6 in middle school / Started waiting for GTA 6 in middle school"
+    "Started waiting for GTA 6 in middle school / Started waiting for GTA 6 in middle school / Started waiting for GTA 6 in middle school",
+    "Lucia planning the whole heist perfectly ‍ / Jason showing up with the wrong car / and a smoothie"
   ],
   "scout_seen": {
     "65724060-69de-4dc7-a523-4843b7358871": "2026-11-19",
@@ -35,7 +37,9 @@
     "f0b0fbac-c754-45e5-96f6-aef8796dac91": "2026-11-19",
     "acfaab94-d1ca-4ed0-9834-7d69b5a4cb4b": "2026-11-20",
     "f7ac5280-4d8b-4f96-9c49-351a0c1f6477": "2026-11-20",
-    "e9a910b6-2d87-41af-9438-6b568f3436c3": "2026-11-20"
+    "e9a910b6-2d87-41af-9438-6b568f3436c3": "2026-11-20",
+    "705f6e21-38af-408c-9e55-c77e4611bf09": "2026-11-21",
+    "2badbd14-942f-4098-b310-a76fa99813d6": "2026-11-21"
   },
   "candidates": {},
   "pending": {
@@ -64,10 +68,36 @@
       },
       "length_s": 25,
       "created": "2026-11-20"
+    },
+    "d97956": {
+      "token": "HJfqeNOixnBW263o",
+      "campaign": "cartier2real",
+      "file": "cartier2real_a4c85e90_1.mp4",
+      "run_id": "44897362374",
+      "title": "He revealed the real money glitch and it's not in GTA #Cartier2Real #Shorts",
+      "description": "He revealed the real money glitch and it's not in GTA\n\n@Cartier2Real live on Kick: https://kick.com/cartier2real\n\n#Cartier2Real #Kick #streamer #shorts #irlstream #streamclips #kickstreamer",
+      "tags": [
+        "Cartier2Real",
+        "Kick",
+        "streamer",
+        "IRL",
+        "funny"
+      ],
+      "language": "en",
+      "hook": "The GTA money glitch is a lie",
+      "style": {
+        "hook_text": "sentence",
+        "subtitle_case": "upper",
+        "subtitle_size": "large",
+        "words_per_caption": 3,
+        "framing": "blur_fill"
+      },
+      "length_s": 45,
+      "created": "2026-11-21"
     }
   },
   "last_used": {
-    "cartier2real": "2026-11-20"
+    "cartier2real": "2026-11-21"
   },
   "posted": [
     {
@@ -119,6 +149,24 @@
         "Trailer 1",
         "Trailer 2",
         "Launch Trailer"
+      ]
+    },
+    {
+      "campaign": "tokyo_girl",
+      "date": "2026-11-21",
+      "hook": "Lucia planning the whole heist perfectly ‍",
+      "title": "Lucia did not plan all that for Jason to pull up wrong \n#GTA6 #Jason #Lucia #GTA6Edit #GrandTheftAuto6 #GTA6Hype",
+      "style": {
+        "hook_text": "none",
+        "subtitle_case": "sentence",
+        "subtitle_size": "large",
+        "words_per_caption": 8,
+        "framing": "blur_fill"
+      },
+      "visuals": [
+        "Clip: Lucia Caminos Video Clip",
+        "Clip: Jason Duval Video Clip",
+        "Trailer 2"
       ]
     }
   ]
