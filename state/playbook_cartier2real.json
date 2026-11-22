@@ -1,24 +1,24 @@
 {
-  "updated": "2026-11-19",
-  "summary": "The top clips all lead with a single wild or quotable moment and never waste a frame on setup. The 200K cameraman clip (2,960 views) dominates because the hook text names a specific, surprising number and the subtitle echoes the spoken punchline in real time. Clips in the 1,000–1,300 view range share a physical or social-awkwardness angle (handstand, fart, flirting) that is universally relatable without needing context. Titles that pair a concrete detail with an emoji and a payoff phrase ('the excuse is crazy') outperform vague titles. Clips that stay under 25 seconds outperform longer ones; the only 43-second entry earned 2 views. Everything landing above 1,000 views uses blur-fill framing with the stream frame centered so faces read clearly on mobile.",
+  "updated": "2026-11-22",
+  "summary": "The 200K cameraman clip (6,788 views) is the clear outlier and sets the template: a specific surprising number named in the hook text, the spoken punchline echoed word-for-word as a large subtitle, and a clean two-person reaction shot in blur-fill framing — all resolved in under 25 seconds. The 1,200–1,300 view cluster shares a universal social or physical awkwardness angle (stranger interaction, embarrassing moment, hot take) that needs zero prior context to land. Titles that lead with a concrete detail plus a short payoff phrase consistently beat vague titles. Our one own post at 65 views confirms we have not yet cracked the hook-text pattern of the top clip; this cycle the priority is replicating that specific-number or specific-word on-screen banner. Clips over 25 seconds show no view ",
   "moments_to_pick": [
-    "Cartier drops a specific, surprising number or stat out loud (salary, price, count) — the more specific the better",
-    "A stranger physically interacts with Cartier or crew in an unexpected way (challenge, skill demo, confrontation)",
-    "An unscripted social moment goes sideways — flirting, rejection, an awkward reveal",
-    "Chat or someone nearby says or does something Cartier visibly reacts to with shock or laughter",
-    "A one-liner or made-up word Cartier coins that sounds quotable out of context",
-    "An embarrassing or gross physical moment someone in the stream tries to explain away"
+    "Cartier says a specific number out loud — a salary, a price, a count — that will surprise a first-time viewer with no context",
+    "A stranger physically does something unexpected with Cartier or crew: a challenge, a skill, a confrontation that resolves on camera",
+    "An unscripted social exchange goes sideways — flirting lands wrong, someone gets called out, an awkward reveal happens mid-conversation",
+    "Cartier coins a made-up or misused word (e.g. 'polyesterous') that sounds quotable and funny pulled out of context",
+    "Chat or someone nearby triggers a visible Cartier reaction — shock, dead silence, then laughter — where the reaction IS the clip",
+    "A gross or embarrassing physical moment someone immediately tries to explain away with a wild excuse"
   ],
   "hook_examples": [
-    "He said WHAT about the job? 💀",
-    "Bro tried to teach himself this in 60 seconds",
-    "She didn't know the camera was still on 😭",
-    "He got caught lacking on live fr",
-    "The excuse after this is WILD 😂",
-    "Chat went crazy when he said this 💀"
+    "He said the bag is HOW much? 👀",
+    "Bro explained this with a straight face 💀",
+    "She had no idea what she just walked into 😭",
+    "Chat froze when he said this out loud",
+    "The excuse he gave after is actually crazy 😂",
+    "Stranger pulled up and tried to teach him this fr"
   ],
-  "title_formula": "Lead with who did what in plain English, include one specific surprising detail (a number, a word, a reaction), end with a 1–4 word payoff phrase or question, add one relevant emoji. Format: [Specific thing that happened] and [the wild detail/consequence] [emoji]. Keep under 70 characters. Example: ",
-  "caption_formula": "Line 1: One punchy sentence that rewords the hook — do not repeat the title word for word. Line 2: A second sentence that teases the payoff without spoiling it, written as Cartier's voice or perspective. Line 3: 'Catch Cartier live on Kick: kick.com/cartier2real'. Keep total under 3 lines visible be",
+  "title_formula": "Open with the specific surprising thing (a number, a word, a situation) in plain English, then add the consequence or reaction in 3-6 words, close with one emoji. Never start with 'Cartier2Real' as the first word — lead with the detail. Keep under 70 characters. Example: 'His take on this had the wh",
+  "caption_formula": "Line 1: One punchy sentence that rewords the hook — do not repeat the title word for word; write it as a reaction or commentary. Line 2: One sentence teasing the payoff from Cartier's perspective or voice without fully spoiling it. Line 3: 'Catch Cartier live on Kick: kick.com/cartier2real' with @ca",
   "hashtags": [
     "#cartier2real",
     "#irlstream",
@@ -39,13 +39,13 @@
     "framing": "blur_fill"
   },
   "avoid": [
-    "Any slow intro or establishing shot before the punchline moment — cut straight to the moment",
-    "Clips longer than 25 seconds unless the moment physically cannot be understood shorter",
-    "Vague titles with no concrete detail ('Cartier reacts to something crazy') — always name the thing",
+    "Any establishing shot, slow pan or intro before the punchline — cut to the moment on frame one",
+    "Clips over 25 seconds unless a physical or social moment is impossible to understand without the full arc — hard cap at 35s even then",
+    "Vague titles with no concrete detail: 'Cartier reacts to something wild' tells the viewer nothing — always name the specific thing",
     "Currency symbols anywhere in titles, captions or on-screen text (campaign rule)",
-    "On-screen hook text that is ALL CAPS shouting — sentence case reads better for the hook banner based on the top clip thumbnail",
-    "Reusing the exact same emoji in both the title and the hook text — vary them"
+    "Hook text that is full ALL-CAPS — sentence case on the hook banner matches the top clip and reads better on mobile",
+    "Reusing the identical emoji in both the title and the hook banner — vary them"
   ],
-  "experiment": "On one clip this cycle, put a bold numerical stat or dollar amount as the very first on-screen text (e.g. '200K A YEAR' in the top bar before any subtitle appears) to replicate the exact visual pattern of the highest-performing clip and test whether that element alone lifts watch time past the 2-sec",
-  "our_results_note": "No posts yet from this channel — all benchmarks are drawn from the campaign's existing clips. Prioritise the 200K cameraman clip's formula (specific number + on-screen echo of the spoken line) as the baseline to beat."
+  "experiment": "On one clip this cycle, place a bold specific stat or amount as a standalone top-bar hook text that appears for the first 2 seconds before any subtitle starts — replicating the exact visual structure of the 6,788-view clip (e.g. a number or a punchy label fills the top bar, stream frame centered, bl",
+  "our_results_note": "One own post at 65 views (hook: sentence case, blur-fill, 3 words per caption, large subtitles) — too early to confirm or reject any style element. The style matches the top-clip formula but the moment chosen ('his type') lacks the specific number or quotable coined word that drives the top clips. T"
 }
