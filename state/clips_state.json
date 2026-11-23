@@ -3,13 +3,15 @@
     "9d9d2c9f-8af1-4fb0-b382-3f6caa77abb4",
     "12aa4671-4f1e-4438-b2c6-2822e4ca97b1",
     "a4c85e90-4e90-4ec7-a1e9-5187e670933b",
-    "a73d6e7d-27b9-4bbd-841d-cd05f30b3004"
+    "a73d6e7d-27b9-4bbd-841d-cd05f30b3004",
+    "288eaea3-5615-4323-abb9-a74c6f244ffb"
   ],
   "tokyo_girl_history": [
     "Rockstar hid a detail in Trailer 1 nobody clocked / Lucia's ankle monitor is gone by the final shot... / She finished her parole. The story starts after",
     "Started waiting for GTA 6 in middle school / Started waiting for GTA 6 in middle school / Started waiting for GTA 6 in middle school",
     "Lucia planning the whole heist perfectly ‍ / Jason showing up with the wrong car / and a smoothie",
-    "You in 2013 hearing GTA 6 would have Vice City: / You in 2026 watching this sunset from the driver s / Rockstar cooked. No notes."
+    "You in 2013 hearing GTA 6 would have Vice City: / You in 2026 watching this sunset from the driver s / Rockstar cooked. No notes.",
+    "Trailer 2 background rumor that won't go away: / Theory: the highway drive hints at a map 2x GTA 5 / Still a rumor. But Rockstar wouldn't do us dirty"
   ],
   "scout_seen": {
     "65724060-69de-4dc7-a523-4843b7358871": "2026-11-19",
@@ -46,7 +48,10 @@
     "5a0781f5-2721-43cb-bc76-72882dd9b0e9": "2026-11-22",
     "76893dce-b122-4a37-8042-c8d7229d086d": "2026-11-22",
     "207a3da1-3aae-4cfb-a263-c8503c687134": "2026-11-22",
-    "079cf4a5-9629-4a7a-b4e8-ca33d5b40258": "2026-11-22"
+    "079cf4a5-9629-4a7a-b4e8-ca33d5b40258": "2026-11-22",
+    "bb66f9eb-b90e-4dd0-8cee-9f3cd566c9a0": "2026-11-23",
+    "485fd01a-6710-4cce-a0e7-723de8990827": "2026-11-23",
+    "f0828cdc-e8c0-4119-8dc5-3f35f02b8721": "2026-11-23"
   },
   "candidates": {},
   "pending": {
@@ -127,10 +132,36 @@
       },
       "length_s": 20,
       "created": "2026-11-22"
+    },
+    "27d871": {
+      "token": "apTF0ru1-CJhlzrb",
+      "campaign": "cartier2real",
+      "file": "cartier2real_288eaea3_1.mp4",
+      "run_id": "45164201201",
+      "title": "Cartier had this guy's whole vibe clocked in 5 seconds #Cartier2Real #Shorts",
+      "description": "Cartier had this guy's whole vibe clocked in 5 seconds\n\n@Cartier2Real live on Kick: https://kick.com/cartier2real\n\n#Cartier2Real #Kick #streamer #shorts #irlstream #streamclips #kickstreamer",
+      "tags": [
+        "Cartier2Real",
+        "Kick",
+        "streamer",
+        "IRL",
+        "funny"
+      ],
+      "language": "en",
+      "hook": "He said you sound like a skateboarder",
+      "style": {
+        "hook_text": "sentence",
+        "subtitle_case": "upper",
+        "subtitle_size": "large",
+        "words_per_caption": 3,
+        "framing": "blur_fill"
+      },
+      "length_s": 21,
+      "created": "2026-11-23"
     }
   },
   "last_used": {
-    "cartier2real": "2026-11-22"
+    "cartier2real": "2026-11-23"
   },
   "posted": [
     {
@@ -218,6 +249,24 @@
         "Trailer 1",
         "An Extended Look (gameplay)",
         "Launch Trailer"
+      ]
+    },
+    {
+      "campaign": "tokyo_girl",
+      "date": "2026-11-23",
+      "hook": "Trailer 2 background rumor that won't go away:",
+      "title": "The map size theory from Trailer 2 is living rent free in my head rn\n\n#GTA6 #GTA6Theory #GTA6Map #GTA6Trailer #Rockstar ",
+      "style": {
+        "hook_text": "none",
+        "subtitle_case": "sentence",
+        "subtitle_size": "large",
+        "words_per_caption": 8,
+        "framing": "blur_fill"
+      },
+      "visuals": [
+        "Trailer 2",
+        "An Extended Look (gameplay)",
+        "Clip: Official Cover Art Landscape"
       ]
     }
   ]
