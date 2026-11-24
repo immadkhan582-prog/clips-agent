@@ -4,14 +4,16 @@
     "12aa4671-4f1e-4438-b2c6-2822e4ca97b1",
     "a4c85e90-4e90-4ec7-a1e9-5187e670933b",
     "a73d6e7d-27b9-4bbd-841d-cd05f30b3004",
-    "288eaea3-5615-4323-abb9-a74c6f244ffb"
+    "288eaea3-5615-4323-abb9-a74c6f244ffb",
+    "c7d22044-300d-4ad5-80f7-2d58b7354789"
   ],
   "tokyo_girl_history": [
     "Rockstar hid a detail in Trailer 1 nobody clocked / Lucia's ankle monitor is gone by the final shot... / She finished her parole. The story starts after",
     "Started waiting for GTA 6 in middle school / Started waiting for GTA 6 in middle school / Started waiting for GTA 6 in middle school",
     "Lucia planning the whole heist perfectly ‍ / Jason showing up with the wrong car / and a smoothie",
     "You in 2013 hearing GTA 6 would have Vice City: / You in 2026 watching this sunset from the driver s / Rockstar cooked. No notes.",
-    "Trailer 2 background rumor that won't go away: / Theory: the highway drive hints at a map 2x GTA 5 / Still a rumor. But Rockstar wouldn't do us dirty"
+    "Trailer 2 background rumor that won't go away: / Theory: the highway drive hints at a map 2x GTA 5 / Still a rumor. But Rockstar wouldn't do us dirty",
+    "You pre-ordered GTA 6 when you still had a curfew / You in 2026 calling in sick for launch day: / Same person. Different tax bracket. Worth it"
   ],
   "scout_seen": {
     "65724060-69de-4dc7-a523-4843b7358871": "2026-11-19",
@@ -51,7 +53,9 @@
     "079cf4a5-9629-4a7a-b4e8-ca33d5b40258": "2026-11-22",
     "bb66f9eb-b90e-4dd0-8cee-9f3cd566c9a0": "2026-11-23",
     "485fd01a-6710-4cce-a0e7-723de8990827": "2026-11-23",
-    "f0828cdc-e8c0-4119-8dc5-3f35f02b8721": "2026-11-23"
+    "f0828cdc-e8c0-4119-8dc5-3f35f02b8721": "2026-11-23",
+    "91c5082d-7c89-4359-8653-db87a4ca01d5": "2026-11-24",
+    "c3e0abdc-c0d9-46bf-ad79-c6800cd7d4e3": "2026-11-24"
   },
   "candidates": {},
   "pending": {
@@ -158,10 +162,36 @@
       },
       "length_s": 21,
       "created": "2026-11-23"
+    },
+    "bc15d2": {
+      "token": "Apa9_LjAHa7r6znD",
+      "campaign": "cartier2real",
+      "file": "cartier2real_c7d22044_1.mp4",
+      "run_id": "45381997753",
+      "title": "Someone offered him 100 and he said get me a drink instead #Cartier2Real #Shorts",
+      "description": "Someone offered him 100 and he said get me a drink instead\n\n@Cartier2Real live on Kick: https://kick.com/cartier2real\n\n#Cartier2Real #Kick #streamer #shorts #irlstream #streamclips #kickstreamer",
+      "tags": [
+        "Cartier2Real",
+        "Kick",
+        "streamer",
+        "IRL",
+        "funny"
+      ],
+      "language": "en",
+      "hook": "He turned down 100 dollars for a drink",
+      "style": {
+        "hook_text": "sentence",
+        "subtitle_case": "upper",
+        "subtitle_size": "large",
+        "words_per_caption": 3,
+        "framing": "blur_fill"
+      },
+      "length_s": 23,
+      "created": "2026-11-24"
     }
   },
   "last_used": {
-    "cartier2real": "2026-11-23"
+    "cartier2real": "2026-11-24"
   },
   "posted": [
     {
@@ -265,6 +295,24 @@
       },
       "visuals": [
         "Trailer 2",
+        "An Extended Look (gameplay)",
+        "Clip: Official Cover Art Landscape"
+      ]
+    },
+    {
+      "campaign": "tokyo_girl",
+      "date": "2026-11-24",
+      "hook": "You pre-ordered GTA 6 when you still had a curfew",
+      "title": "Pre-ordered this game as a teenager and I'm calling in sick to work on launch day  #GTA6 #GTA6Memes #GTA6Hype #Rockstar ",
+      "style": {
+        "hook_text": "none",
+        "subtitle_case": "sentence",
+        "subtitle_size": "large",
+        "words_per_caption": 8,
+        "framing": "blur_fill"
+      },
+      "visuals": [
+        "Trailer 1",
         "An Extended Look (gameplay)",
         "Clip: Official Cover Art Landscape"
       ]
