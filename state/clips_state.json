@@ -5,7 +5,8 @@
     "a4c85e90-4e90-4ec7-a1e9-5187e670933b",
     "a73d6e7d-27b9-4bbd-841d-cd05f30b3004",
     "288eaea3-5615-4323-abb9-a74c6f244ffb",
-    "c7d22044-300d-4ad5-80f7-2d58b7354789"
+    "c7d22044-300d-4ad5-80f7-2d58b7354789",
+    "b2befc4c-b109-45a3-95f8-03a67af75469"
   ],
   "tokyo_girl_history": [
     "Rockstar hid a detail in Trailer 1 nobody clocked / Lucia's ankle monitor is gone by the final shot... / She finished her parole. The story starts after",
@@ -13,7 +14,8 @@
     "Lucia planning the whole heist perfectly ‍ / Jason showing up with the wrong car / and a smoothie",
     "You in 2013 hearing GTA 6 would have Vice City: / You in 2026 watching this sunset from the driver s / Rockstar cooked. No notes.",
     "Trailer 2 background rumor that won't go away: / Theory: the highway drive hints at a map 2x GTA 5 / Still a rumor. But Rockstar wouldn't do us dirty",
-    "You pre-ordered GTA 6 when you still had a curfew / You in 2026 calling in sick for launch day: / Same person. Different tax bracket. Worth it"
+    "You pre-ordered GTA 6 when you still had a curfew / You in 2026 calling in sick for launch day: / Same person. Different tax bracket. Worth it",
+    "Lucia explaining the plan for the 4th time / Lucia explaining the plan for the 4th time / Lucia explaining the plan for the 4th time"
   ],
   "scout_seen": {
     "65724060-69de-4dc7-a523-4843b7358871": "2026-11-19",
@@ -55,7 +57,11 @@
     "485fd01a-6710-4cce-a0e7-723de8990827": "2026-11-23",
     "f0828cdc-e8c0-4119-8dc5-3f35f02b8721": "2026-11-23",
     "91c5082d-7c89-4359-8653-db87a4ca01d5": "2026-11-24",
-    "c3e0abdc-c0d9-46bf-ad79-c6800cd7d4e3": "2026-11-24"
+    "c3e0abdc-c0d9-46bf-ad79-c6800cd7d4e3": "2026-11-24",
+    "1391fb95-e8a3-4f0b-b146-d0d786e6aee0": "2026-11-25",
+    "ea416af3-f1aa-4b56-9c8b-f2a51e6d6df4": "2026-11-25",
+    "fe4d1c34-4ed5-4895-9995-0d63bb5cb5a8": "2026-11-25",
+    "93b81d7f-211f-4961-95c7-93b2b78f087d": "2026-11-25"
   },
   "candidates": {},
   "pending": {
@@ -188,10 +194,36 @@
       },
       "length_s": 23,
       "created": "2026-11-24"
+    },
+    "2eac8e": {
+      "token": "s5rnrzKbALsgI9iV",
+      "campaign": "cartier2real",
+      "file": "cartier2real_b2befc4c_1.mp4",
+      "run_id": "45603121296",
+      "title": "He introduced both of them at the same time and meant it #Cartier2Real #Shorts",
+      "description": "He introduced both of them at the same time and meant it\n\n@Cartier2Real live on Kick: https://kick.com/cartier2real\n\n#Cartier2Real #Kick #streamer #shorts #irlstream #streamclips #kickstreamer",
+      "tags": [
+        "Cartier2Real",
+        "Kick",
+        "streamer",
+        "IRL",
+        "funny"
+      ],
+      "language": "en",
+      "hook": "This is my wife... and my other wife",
+      "style": {
+        "hook_text": "sentence",
+        "subtitle_case": "upper",
+        "subtitle_size": "large",
+        "words_per_caption": 3,
+        "framing": "blur_fill"
+      },
+      "length_s": 22,
+      "created": "2026-11-25"
     }
   },
   "last_used": {
-    "cartier2real": "2026-11-24"
+    "cartier2real": "2026-11-25"
   },
   "posted": [
     {
@@ -315,6 +347,24 @@
         "Trailer 1",
         "An Extended Look (gameplay)",
         "Clip: Official Cover Art Landscape"
+      ]
+    },
+    {
+      "campaign": "tokyo_girl",
+      "date": "2026-11-25",
+      "hook": "Lucia explaining the plan for the 4th time",
+      "title": "She has gone over every single detail and he still has that look on his face \n\n#GTA6 #Lucia #Jason #GTA6Meme #PartnerInC",
+      "style": {
+        "hook_text": "none",
+        "subtitle_case": "sentence",
+        "subtitle_size": "large",
+        "words_per_caption": 8,
+        "framing": "blur_fill"
+      },
+      "visuals": [
+        "Clip: Lucia Caminos Video Clip",
+        "Clip: Jason Duval Video Clip",
+        "Trailer 2"
       ]
     }
   ]

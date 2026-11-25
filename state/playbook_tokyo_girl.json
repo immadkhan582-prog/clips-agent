@@ -1,23 +1,24 @@
 {
-  "updated": "2026-11-22",
-  "summary": "The two dominant clips in this campaign (554k and 355k/255k views) both use a single on-screen text block that holds static across every shot — the entire joke is legible from frame one and never changes. The winning premise is a relatable 'you vs the game' community meme written in casual internet vernacular (sentence case, white or lightly colored text, 1-2 emojis at the end) anchored to a sharp contrast or absurdity — PC vs PS5, 30fps truthers, Lucia loyalty. Rank 3 (343k) adds one new data point: a meme-animal overlay on a GTA 6 background with a full sentence joke in a colored chat-bubble style text box also crushes — proving the joke premise matters more than strict aesthetic minimalism. The rank 5 Jason & Lucia chemistry clip (159k) confirms couple-dynamic memes are a reliable secon",
+  "updated": "2026-11-25",
+  "summary": "Every clip above 300k views in this campaign uses a single on-screen text block that is fully visible from frame one and never changes across all three shots — the entire joke is absorbed in under two seconds. The winning premise is a relatable, community-legible meme written in casual internet vernacular (sentence case, white text, 1-2 emojis at the tail end) built on a sharp contrast or absurd specificity: Lucia doing something endearing that contradicts her criminal identity, Jason & Lucia couple dynamics, platform-envy pain, or fan-loyalty sacrifice. Rank 1 (2.9M) proves that a universally known real-life meme format ('fake shower method') transplanted onto Lucia is the single highest-ceiling move in this campaign — the joke requires zero GTA lore, only recognition of Lucia as a charac",
   "moments_to_pick": [
-    "PC gamers locked out while PS5 owners play — sharp platform-envy contrast with absurdist exaggeration",
-    "30fps vs 60fps debate: fans who claimed they couldn't tell the difference now suffering visibly",
-    "Jason & Lucia couple dynamic — Lucia carrying the whole operation while Jason stands around looking confused",
-    "Fans who pre-ordered years ago finally holding the game vs. their current life situation (aging, bills, different job)",
-    "Rockstar doing something unhinged in real life (GTA 6 Ferrari in Selfridges, pop-up events) reacted to with hyperbolic devotion",
-    "The '13-year wait' generational grief — childhood → adulthood arc condensed into a 3-shot escalation"
+    "Lucia displaying innocent, cute, or wholesome behavior that directly contradicts her criminal status — transplant any universally known real-life meme onto her (e.g. a TikTok trend, a relatable girlfr",
+    "Lucia's happy physical expressiveness (bouncing, excited movement, smiling) paired with text that highlights the absurd contrast with the crime context — 'she looks like this but she just robbed a ban",
+    "Jason visibly suffering or doing thankless labor entirely for Lucia's benefit — framed as devotion, e.g. prepping, waiting, taking the fall, holding the bag literally",
+    "Jason & Lucia couple dynamic where Lucia is clearly the one running the operation and Jason is lovesick and compliant — played for warmth not aggression",
+    "PC players / platform-envy memes using GTA 6 Vice City footage as the visual backdrop — the 30fps debate, the port wait, the PS5 owner gloating",
+    "Generational grief shots: Vice City skyline or trailer-iconic location used as the backdrop for a '13-year wait' arc condensed into one sentence"
   ],
   "hook_examples": [
-    "Me after 13 years finally holding GTA 6 at midnight 😭🎮",
-    "Lucia when Jason suggests the plan like he thought of it himself 💀🔫",
-    "Everyone who said 30fps was 'completely fine' booting up GTA 6 right now 🫠🕹️",
-    "PS5 owners on launch day vs me still on PC waiting for a port date 😮‍💨💔",
-    "The version of me who bought a PS5 specifically for November 19th eating good to"
+    "Lucia walking out of prison like she owns the whole state 😭✌️",
+    "Jason carrying all the bags while Lucia skips ahead 💀🎒",
+    "She robbed three banks this week and still looks this happy 😭🤌",
+    "PC players watching the PS5 version run at 60fps right now 😮‍💨🕹️",
+    "Lucia discovering she can swim and Jason is just standing there 😭🌊",
+    "Me at 5am reorganizing my whole apartment for a video game character 😭🔧"
   ],
-  "title_formula": "Lead with the meme premise in 6-10 words, drop one emotional emoji immediately after the premise, close with #GTA6. The title should read like a thought someone would actually type in a comment. Example: 'PC players watching PS5 owners right now 😭 #GTA6' or 'Jason and Lucia carrying each other fr 💀 ",
-  "caption_formula": "One sentence restating the meme in different wording from the on-screen text — never copy it verbatim. Then a line break. Then '🎵 Tokyo Girl — Weezer' on its own line for song credit. Then hashtags on a final line. Keep the meme sentence under 20 words. Example: 'Waited 13 years for this and my PS5 ",
+  "title_formula": "Lead with the meme premise in 6-10 words exactly as someone would type it in a comment — conversational, no forced grammar. Drop one emotional emoji immediately after. Close with #GTA6. Do NOT start with 'When' or 'POV' — that pattern is overused. Examples: 'Lucia discovering the fake shower method ",
+  "caption_formula": "One sentence that restates the meme idea in different wording from the on-screen text — never copy it verbatim, max 20 words. Line break. Then '🎵 Tokyo Girl — Passive' on its own line for song credit (campaign rule). Line break. Then hashtags on a final line. Example: 'She is literally a wanted crim",
   "hashtags": [
     "#GTA6",
     "#GTAVI",
@@ -38,13 +39,13 @@
     "framing": "blur_fill"
   },
   "avoid": [
-    "Changing the on-screen text between shots — both top campaign clips hold one full static joke across all three beats; fragmentation has zero evidence of working yet",
-    "ALL CAPS text — every high-performing clip in the campaign uses sentence case; caps reads aggressive not funny in this meme register",
-    "Premises that require deep game knowledge — the best-performing jokes (30fps, PC vs PS5, waiting years) are universally legible to casual GTA fans, not just lore nerds",
-    "Soft or wholesome setups without a contrast spike or absurdist escalation — rank 6's 'sneaking out of bed' premise (15k) proves low-stakes warmth underperforms here",
-    "More than 2 emojis inside the on-screen text block — top clips use exactly 1-2 at the very end only",
-    "Voiceover, dialogue, or any audio element other than Tokyo Girl"
+    "Changing the on-screen text between shots — ranks 1, 2, 3, 5, and 7 all hold one static block across every beat; no evidence the 3-beat escalating structure outperforms this yet, so static remains def",
+    "ALL CAPS text — every high-performing campaign clip uses sentence case; caps reads aggressive, not funny, in this meme register",
+    "Premises that require deep GTA lore — the two highest clips (2.9M, 1M) are legible to anyone who has seen Lucia's face once; lore-heavy jokes narrow the audience before the hook can land",
+    "Soft or low-contrast setups with no absurdist spike — warmth without contradiction consistently underperforms in this campaign",
+    "More than 2 emojis inside the on-screen text block — top clips use exactly 1-2 at the very end only; front-loaded emojis do not appear in any top performer",
+    "Voiceover, dialogue, or any audio other than Tokyo Girl — campaign rule, zero exceptions"
   ],
-  "experiment": "This cycle, test a 3-beat escalating text structure on one clip: Beat 1 (shot 1, 4s) sets the scenario in one clause — 'You in 2013 when GTA 6 was first rumored:'; Beat 2 (shot 2, 4s) adds the twist — 'You in 2026 finally holding the disc:'; Beat 3 (shot 3, 4s) delivers just an emoji or 2-word payof",
-  "our_results_note": "No posts on this account yet — all conclusions drawn entirely from campaign competitor clips and trending Shorts. The static single-joke format is the only approach with data behind it (554k, 355k, 255k, 343k views all use it). Do not abandon it until the 3-beat experiment has at least 3 published c"
+  "experiment": "On one clip this cycle, test the 3-beat escalating text structure that was proposed last playbook but never deployed: Beat 1 (shot 1, 4s) sets the scenario in one short clause with no emoji — e.g. 'Lucia the moment she gets out of prison:'; Beat 2 (shot 2, 4s) adds the absurd twist — e.g. 'Already p",
+  "our_results_note": "No posts on this account yet — all conclusions drawn from campaign competitor clips (ranks 1-10) and trending Shorts data. The static single-joke format is the only approach with hard performance evidence in this campaign (2.9M, 1M, 758k, 559k, 355k, 348k all use it). The Lucia-contradiction premise"
 }
