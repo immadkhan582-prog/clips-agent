@@ -6,7 +6,8 @@
     "a73d6e7d-27b9-4bbd-841d-cd05f30b3004",
     "288eaea3-5615-4323-abb9-a74c6f244ffb",
     "c7d22044-300d-4ad5-80f7-2d58b7354789",
-    "b2befc4c-b109-45a3-95f8-03a67af75469"
+    "b2befc4c-b109-45a3-95f8-03a67af75469",
+    "cab101a7-a0c4-4c7a-bc08-47bbecc88911"
   ],
   "tokyo_girl_history": [
     "Rockstar hid a detail in Trailer 1 nobody clocked / Lucia's ankle monitor is gone by the final shot... / She finished her parole. The story starts after",
@@ -15,7 +16,8 @@
     "You in 2013 hearing GTA 6 would have Vice City: / You in 2026 watching this sunset from the driver s / Rockstar cooked. No notes.",
     "Trailer 2 background rumor that won't go away: / Theory: the highway drive hints at a map 2x GTA 5 / Still a rumor. But Rockstar wouldn't do us dirty",
     "You pre-ordered GTA 6 when you still had a curfew / You in 2026 calling in sick for launch day: / Same person. Different tax bracket. Worth it",
-    "Lucia explaining the plan for the 4th time / Lucia explaining the plan for the 4th time / Lucia explaining the plan for the 4th time"
+    "Lucia explaining the plan for the 4th time / Lucia explaining the plan for the 4th time / Lucia explaining the plan for the 4th time",
+    "Driving through Vice City at golden hour / Driving through Vice City at golden hour / Driving through Vice City at golden hour"
   ],
   "scout_seen": {
     "65724060-69de-4dc7-a523-4843b7358871": "2026-11-19",
@@ -61,7 +63,11 @@
     "1391fb95-e8a3-4f0b-b146-d0d786e6aee0": "2026-11-25",
     "ea416af3-f1aa-4b56-9c8b-f2a51e6d6df4": "2026-11-25",
     "fe4d1c34-4ed5-4895-9995-0d63bb5cb5a8": "2026-11-25",
-    "93b81d7f-211f-4961-95c7-93b2b78f087d": "2026-11-25"
+    "93b81d7f-211f-4961-95c7-93b2b78f087d": "2026-11-25",
+    "098c2c7a-a338-4638-a53f-3de82008151c": "2026-11-26",
+    "9a53cf91-e0ac-4157-bed0-81eb7095827d": "2026-11-26",
+    "19d077ab-9fe1-4687-aa2e-f016328d462b": "2026-11-26",
+    "401f9458-d426-47fb-9f8f-83002a162cb5": "2026-11-26"
   },
   "candidates": {},
   "pending": {
@@ -220,10 +226,36 @@
       },
       "length_s": 22,
       "created": "2026-11-25"
+    },
+    "8eae32": {
+      "token": "MGHMf2smn06-gKOJ",
+      "campaign": "cartier2real",
+      "file": "cartier2real_cab101a7_1.mp4",
+      "run_id": "45808974757",
+      "title": "Stranger said 'you can try' — then this happened #Cartier2Real #Shorts",
+      "description": "Stranger said 'you can try' — then this happened\n\n@Cartier2Real live on Kick: https://kick.com/cartier2real\n\n#Cartier2Real #Kick #streamer #shorts #irlstream #streamclips #kickstreamer",
+      "tags": [
+        "Cartier2Real",
+        "Kick",
+        "streamer",
+        "IRL",
+        "funny"
+      ],
+      "language": "en",
+      "hook": "Bro said you can try on him",
+      "style": {
+        "hook_text": "sentence",
+        "subtitle_case": "upper",
+        "subtitle_size": "large",
+        "words_per_caption": 3,
+        "framing": "blur_fill"
+      },
+      "length_s": 36,
+      "created": "2026-11-26"
     }
   },
   "last_used": {
-    "cartier2real": "2026-11-25"
+    "cartier2real": "2026-11-26"
   },
   "posted": [
     {
@@ -365,6 +397,24 @@
         "Clip: Lucia Caminos Video Clip",
         "Clip: Jason Duval Video Clip",
         "Trailer 2"
+      ]
+    },
+    {
+      "campaign": "tokyo_girl",
+      "date": "2026-11-26",
+      "hook": "Driving through Vice City at golden hour",
+      "title": "Rockstar made a whole mood and called it a map \n\n#GTA6 #GTA6Edit #ViceCity #GTA6Trailer #Rockstar #GTAVI #RockstarGames ",
+      "style": {
+        "hook_text": "none",
+        "subtitle_case": "sentence",
+        "subtitle_size": "large",
+        "words_per_caption": 8,
+        "framing": "blur_fill"
+      },
+      "visuals": [
+        "Trailer 2",
+        "Launch Trailer",
+        "An Extended Look (gameplay)"
       ]
     }
   ]
