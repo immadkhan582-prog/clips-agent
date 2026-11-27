@@ -7,7 +7,8 @@
     "288eaea3-5615-4323-abb9-a74c6f244ffb",
     "c7d22044-300d-4ad5-80f7-2d58b7354789",
     "b2befc4c-b109-45a3-95f8-03a67af75469",
-    "cab101a7-a0c4-4c7a-bc08-47bbecc88911"
+    "cab101a7-a0c4-4c7a-bc08-47bbecc88911",
+    "1825c914-c79a-4e2d-ace5-4e063a61266c"
   ],
   "tokyo_girl_history": [
     "Rockstar hid a detail in Trailer 1 nobody clocked / Lucia's ankle monitor is gone by the final shot... / She finished her parole. The story starts after",
@@ -67,36 +68,12 @@
     "098c2c7a-a338-4638-a53f-3de82008151c": "2026-11-26",
     "9a53cf91-e0ac-4157-bed0-81eb7095827d": "2026-11-26",
     "19d077ab-9fe1-4687-aa2e-f016328d462b": "2026-11-26",
-    "401f9458-d426-47fb-9f8f-83002a162cb5": "2026-11-26"
+    "401f9458-d426-47fb-9f8f-83002a162cb5": "2026-11-26",
+    "463491d6-3df2-4dd2-ae32-1d1d5d8b1735": "2026-11-27",
+    "fb4b6ff1-4f22-446e-82d8-6bc9e2ba6278": "2026-11-27"
   },
   "candidates": {},
   "pending": {
-    "694229": {
-      "token": "o14k8G2DQk78uY6X",
-      "campaign": "cartier2real",
-      "file": "cartier2real_12aa4671_1.mp4",
-      "run_id": "44726473100",
-      "title": "Bro said he wanted her then found out she's family #Cartier2Real #Shorts",
-      "description": "Bro said he wanted her then found out she's family\n\n@Cartier2Real live on Kick: https://kick.com/cartier2real\n\n#Cartier2Real #Kick #streamer #shorts #irlstream #streamclips #kickstreamer",
-      "tags": [
-        "Cartier2Real",
-        "Kick",
-        "streamer",
-        "IRL",
-        "funny"
-      ],
-      "language": "en",
-      "hook": "She might be his cousin tho...",
-      "style": {
-        "hook_text": "sentence",
-        "subtitle_case": "upper",
-        "subtitle_size": "large",
-        "words_per_caption": 3,
-        "framing": "blur_fill"
-      },
-      "length_s": 25,
-      "created": "2026-11-20"
-    },
     "d97956": {
       "token": "HJfqeNOixnBW263o",
       "campaign": "cartier2real",
@@ -252,10 +229,36 @@
       },
       "length_s": 36,
       "created": "2026-11-26"
+    },
+    "79e9ef": {
+      "token": "NyAE3psg7wXt6T66",
+      "campaign": "cartier2real",
+      "file": "cartier2real_1825c914_1.mp4",
+      "run_id": "45988409861",
+      "title": "Told strangers we do poly then had to explain himself #Cartier2Real #Shorts",
+      "description": "Told strangers we do poly then had to explain himself\n\n@Cartier2Real live on Kick: https://kick.com/cartier2real\n\n#Cartier2Real #Kick #streamer #shorts #irlstream #streamclips #kickstreamer",
+      "tags": [
+        "Cartier2Real",
+        "Kick",
+        "streamer",
+        "IRL",
+        "funny"
+      ],
+      "language": "en",
+      "hook": "He said we do poly no limit",
+      "style": {
+        "hook_text": "sentence",
+        "subtitle_case": "upper",
+        "subtitle_size": "large",
+        "words_per_caption": 3,
+        "framing": "blur_fill"
+      },
+      "length_s": 21,
+      "created": "2026-11-27"
     }
   },
   "last_used": {
-    "cartier2real": "2026-11-26"
+    "cartier2real": "2026-11-27"
   },
   "posted": [
     {
