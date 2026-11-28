@@ -8,7 +8,8 @@
     "c7d22044-300d-4ad5-80f7-2d58b7354789",
     "b2befc4c-b109-45a3-95f8-03a67af75469",
     "cab101a7-a0c4-4c7a-bc08-47bbecc88911",
-    "1825c914-c79a-4e2d-ace5-4e063a61266c"
+    "1825c914-c79a-4e2d-ace5-4e063a61266c",
+    "a62c7642-43aa-4d6d-b88b-d687b4e12321"
   ],
   "tokyo_girl_history": [
     "Rockstar hid a detail in Trailer 1 nobody clocked / Lucia's ankle monitor is gone by the final shot... / She finished her parole. The story starts after",
@@ -18,7 +19,8 @@
     "Trailer 2 background rumor that won't go away: / Theory: the highway drive hints at a map 2x GTA 5 / Still a rumor. But Rockstar wouldn't do us dirty",
     "You pre-ordered GTA 6 when you still had a curfew / You in 2026 calling in sick for launch day: / Same person. Different tax bracket. Worth it",
     "Lucia explaining the plan for the 4th time / Lucia explaining the plan for the 4th time / Lucia explaining the plan for the 4th time",
-    "Driving through Vice City at golden hour / Driving through Vice City at golden hour / Driving through Vice City at golden hour"
+    "Driving through Vice City at golden hour / Driving through Vice City at golden hour / Driving through Vice City at golden hour",
+    "Trailer 2 has a detail nobody is talking about: / The cops react different every single wanted star / Rumor: wanted levels actually scale with your meth"
   ],
   "scout_seen": {
     "65724060-69de-4dc7-a523-4843b7358871": "2026-11-19",
@@ -70,36 +72,15 @@
     "19d077ab-9fe1-4687-aa2e-f016328d462b": "2026-11-26",
     "401f9458-d426-47fb-9f8f-83002a162cb5": "2026-11-26",
     "463491d6-3df2-4dd2-ae32-1d1d5d8b1735": "2026-11-27",
-    "fb4b6ff1-4f22-446e-82d8-6bc9e2ba6278": "2026-11-27"
+    "fb4b6ff1-4f22-446e-82d8-6bc9e2ba6278": "2026-11-27",
+    "2f4e4a26-0643-449f-80da-db22d0755d21": "2026-11-28",
+    "b72e2f31-eaff-4240-915a-e5f9847a4fe3": "2026-11-28",
+    "98afe516-3a9d-405d-a76a-67375d3120a7": "2026-11-28",
+    "cdf6dc09-a0ba-4fe8-8c6d-114773714557": "2026-11-28",
+    "3b30ef83-f6ec-4d93-b734-b4f90fb703a4": "2026-11-28"
   },
   "candidates": {},
   "pending": {
-    "d97956": {
-      "token": "HJfqeNOixnBW263o",
-      "campaign": "cartier2real",
-      "file": "cartier2real_a4c85e90_1.mp4",
-      "run_id": "44897362374",
-      "title": "He revealed the real money glitch and it's not in GTA #Cartier2Real #Shorts",
-      "description": "He revealed the real money glitch and it's not in GTA\n\n@Cartier2Real live on Kick: https://kick.com/cartier2real\n\n#Cartier2Real #Kick #streamer #shorts #irlstream #streamclips #kickstreamer",
-      "tags": [
-        "Cartier2Real",
-        "Kick",
-        "streamer",
-        "IRL",
-        "funny"
-      ],
-      "language": "en",
-      "hook": "The GTA money glitch is a lie",
-      "style": {
-        "hook_text": "sentence",
-        "subtitle_case": "upper",
-        "subtitle_size": "large",
-        "words_per_caption": 3,
-        "framing": "blur_fill"
-      },
-      "length_s": 45,
-      "created": "2026-11-21"
-    },
     "940fb2": {
       "token": "S2x-xaXBxGBAbT1g",
       "campaign": "cartier2real",
@@ -255,10 +236,36 @@
       },
       "length_s": 21,
       "created": "2026-11-27"
+    },
+    "67b297": {
+      "token": "OJGqAUfvhJPgx03a",
+      "campaign": "cartier2real",
+      "file": "cartier2real_a62c7642_1.mp4",
+      "run_id": "46138375418",
+      "title": "Walked in with zero prep and said \"wing it, take questions, f*** it\" #Cartier2Real #Shorts",
+      "description": "Walked in with zero prep and said \"wing it, take questions, f*** it\"\n\n@Cartier2Real live on Kick: https://kick.com/cartier2real\n\n#Cartier2Real #Kick #streamer #shorts #irlstream #streamclips #kickstreamer",
+      "tags": [
+        "Cartier2Real",
+        "Kick",
+        "streamer",
+        "IRL",
+        "funny"
+      ],
+      "language": "en",
+      "hook": "He said just WING IT no prep",
+      "style": {
+        "hook_text": "sentence",
+        "subtitle_case": "upper",
+        "subtitle_size": "large",
+        "words_per_caption": 3,
+        "framing": "blur_fill"
+      },
+      "length_s": 20,
+      "created": "2026-11-28"
     }
   },
   "last_used": {
-    "cartier2real": "2026-11-27"
+    "cartier2real": "2026-11-28"
   },
   "posted": [
     {
@@ -418,6 +425,24 @@
         "Trailer 2",
         "Launch Trailer",
         "An Extended Look (gameplay)"
+      ]
+    },
+    {
+      "campaign": "tokyo_girl",
+      "date": "2026-11-28",
+      "hook": "Trailer 2 has a detail nobody is talking about:",
+      "title": "That wanted level clip in Trailer 2 has been living in my head rent free for months.\n\n#GTA6 #GTA6Theory #GTA6Trailer #GT",
+      "style": {
+        "hook_text": "none",
+        "subtitle_case": "sentence",
+        "subtitle_size": "large",
+        "words_per_caption": 8,
+        "framing": "blur_fill"
+      },
+      "visuals": [
+        "Trailer 2",
+        "Trailer 2",
+        "Clip: Lucia Caminos Video Clip"
       ]
     }
   ]
